@@ -1,6 +1,7 @@
 {
   "hosting": {
     "public": "build",
+    "site": "github-action-79301",
     "ignore": [
       "firebase.json",
       "**/.*",
